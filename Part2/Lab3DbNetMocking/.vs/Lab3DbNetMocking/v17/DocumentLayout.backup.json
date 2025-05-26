@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B33C62B-2568-45CF-83AE-9FF096A80DAA}|Lab3DbNetMocking\\Lab3DbNet.Core.csproj|c:\\users\\ilage\\source\\repos\\lab3dbnetmocking\\lab3dbnetmocking\\services\\mockdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B33C62B-2568-45CF-83AE-9FF096A80DAA}|Lab3DbNetMocking\\Lab3DbNet.Core.csproj|solutionrelative:lab3dbnetmocking\\services\\mockdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA40295-B19A-4C52-8F2F-9FDA7E2C3934}|Lab3DbNetMocking.Tests\\Lab3DbNetMocking.Tests.csproj|c:\\users\\ilage\\source\\repos\\lab3dbnetmocking\\lab3dbnetmocking.tests\\unittests\\dataservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA40295-B19A-4C52-8F2F-9FDA7E2C3934}|Lab3DbNetMocking.Tests\\Lab3DbNetMocking.Tests.csproj|solutionrelative:lab3dbnetmocking.tests\\unittests\\dataservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA40295-B19A-4C52-8F2F-9FDA7E2C3934}|Lab3DbNetMocking.Tests\\Lab3DbNetMocking.Tests.csproj|c:\\users\\ilage\\source\\repos\\lab3dbnetmocking\\lab3dbnetmocking.tests\\unittests\\networkclienttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA40295-B19A-4C52-8F2F-9FDA7E2C3934}|Lab3DbNetMocking.Tests\\Lab3DbNetMocking.Tests.csproj|solutionrelative:lab3dbnetmocking.tests\\unittests\\networkclienttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B33C62B-2568-45CF-83AE-9FF096A80DAA}|Lab3DbNetMocking\\Lab3DbNet.Core.csproj|c:\\users\\ilage\\source\\repos\\lab3dbnetmocking\\lab3dbnetmocking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B33C62B-2568-45CF-83AE-9FF096A80DAA}|Lab3DbNetMocking\\Lab3DbNet.Core.csproj|solutionrelative:lab3dbnetmocking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA40295-B19A-4C52-8F2F-9FDA7E2C3934}|Lab3DbNetMocking.Tests\\Lab3DbNetMocking.Tests.csproj|c:\\users\\ilage\\source\\repos\\lab3dbnetmocking\\lab3dbnetmocking.tests\\lab3dbnetmocking.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8DA40295-B19A-4C52-8F2F-9FDA7E2C3934}|Lab3DbNetMocking.Tests\\Lab3DbNetMocking.Tests.csproj|solutionrelative:lab3dbnetmocking.tests\\lab3dbnetmocking.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA40295-B19A-4C52-8F2F-9FDA7E2C3934}|Lab3DbNetMocking.Tests\\Lab3DbNetMocking.Tests.csproj|c:\\users\\ilage\\source\\repos\\lab3dbnetmocking\\lab3dbnetmocking.tests\\unittests\\fileloggertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA40295-B19A-4C52-8F2F-9FDA7E2C3934}|Lab3DbNetMocking.Tests\\Lab3DbNetMocking.Tests.csproj|solutionrelative:lab3dbnetmocking.tests\\unittests\\fileloggertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B33C62B-2568-45CF-83AE-9FF096A80DAA}|Lab3DbNetMocking\\Lab3DbNet.Core.csproj|c:\\users\\ilage\\source\\repos\\lab3dbnetmocking\\lab3dbnetmocking\\services\\mocknetworkclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B33C62B-2568-45CF-83AE-9FF096A80DAA}|Lab3DbNetMocking\\Lab3DbNet.Core.csproj|solutionrelative:lab3dbnetmocking\\services\\mocknetworkclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B33C62B-2568-45CF-83AE-9FF096A80DAA}|Lab3DbNetMocking\\Lab3DbNet.Core.csproj|c:\\users\\ilage\\source\\repos\\lab3dbnetmocking\\lab3dbnetmocking\\services\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B33C62B-2568-45CF-83AE-9FF096A80DAA}|Lab3DbNetMocking\\Lab3DbNet.Core.csproj|solutionrelative:lab3dbnetmocking\\services\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B33C62B-2568-45CF-83AE-9FF096A80DAA}|Lab3DbNetMocking\\Lab3DbNet.Core.csproj|c:\\users\\ilage\\source\\repos\\lab3dbnetmocking\\lab3dbnetmocking\\interfaces\\inetworkclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B33C62B-2568-45CF-83AE-9FF096A80DAA}|Lab3DbNetMocking\\Lab3DbNet.Core.csproj|solutionrelative:lab3dbnetmocking\\interfaces\\inetworkclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B33C62B-2568-45CF-83AE-9FF096A80DAA}|Lab3DbNetMocking\\Lab3DbNet.Core.csproj|c:\\users\\ilage\\source\\repos\\lab3dbnetmocking\\lab3dbnetmocking\\interfaces\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B33C62B-2568-45CF-83AE-9FF096A80DAA}|Lab3DbNetMocking\\Lab3DbNet.Core.csproj|solutionrelative:lab3dbnetmocking\\interfaces\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B33C62B-2568-45CF-83AE-9FF096A80DAA}|Lab3DbNetMocking\\Lab3DbNet.Core.csproj|c:\\users\\ilage\\source\\repos\\lab3dbnetmocking\\lab3dbnetmocking\\interfaces\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B33C62B-2568-45CF-83AE-9FF096A80DAA}|Lab3DbNetMocking\\Lab3DbNet.Core.csproj|solutionrelative:lab3dbnetmocking\\interfaces\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B33C62B-2568-45CF-83AE-9FF096A80DAA}|Lab3DbNetMocking\\Lab3DbNet.Core.csproj|c:\\users\\ilage\\source\\repos\\lab3dbnetmocking\\lab3dbnetmocking\\interfaces\\iappsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B33C62B-2568-45CF-83AE-9FF096A80DAA}|Lab3DbNetMocking\\Lab3DbNet.Core.csproj|solutionrelative:lab3dbnetmocking\\interfaces\\iappsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B33C62B-2568-45CF-83AE-9FF096A80DAA}|Lab3DbNetMocking\\Lab3DbNet.Core.csproj|c:\\users\\ilage\\source\\repos\\lab3dbnetmocking\\lab3dbnetmocking\\dependencyinjection\\serviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B33C62B-2568-45CF-83AE-9FF096A80DAA}|Lab3DbNetMocking\\Lab3DbNet.Core.csproj|solutionrelative:lab3dbnetmocking\\dependencyinjection\\serviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B33C62B-2568-45CF-83AE-9FF096A80DAA}|Lab3DbNetMocking\\Lab3DbNet.Core.csproj|c:\\users\\ilage\\source\\repos\\lab3dbnetmocking\\lab3dbnetmocking\\configuration\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B33C62B-2568-45CF-83AE-9FF096A80DAA}|Lab3DbNetMocking\\Lab3DbNet.Core.csproj|solutionrelative:lab3dbnetmocking\\configuration\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\App.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:App.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B33C62B-2568-45CF-83AE-9FF096A80DAA}|Lab3DbNetMocking\\Lab3DbNet.Core.csproj|c:\\users\\ilage\\source\\repos\\lab3dbnetmocking\\lab3dbnetmocking\\lab3dbnet.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B33C62B-2568-45CF-83AE-9FF096A80DAA}|Lab3DbNetMocking\\Lab3DbNet.Core.csproj|solutionrelative:lab3dbnetmocking\\lab3dbnet.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDataService.cs",
+              "DocumentMoniker": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking\\Interfaces\\IDataService.cs",
+              "RelativeDocumentMoniker": "Lab3DbNetMocking\\Interfaces\\IDataService.cs",
+              "ToolTip": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking\\Interfaces\\IDataService.cs",
+              "RelativeToolTip": "Lab3DbNetMocking\\Interfaces\\IDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:03:49.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking\\Interfaces\\ILogger.cs",
+              "RelativeDocumentMoniker": "Lab3DbNetMocking\\Interfaces\\ILogger.cs",
+              "ToolTip": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking\\Interfaces\\ILogger.cs",
+              "RelativeToolTip": "Lab3DbNetMocking\\Interfaces\\ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:14:42.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking.Tests\\UnitTests\\DataServiceTests.cs",
+              "RelativeDocumentMoniker": "Lab3DbNetMocking.Tests\\UnitTests\\DataServiceTests.cs",
+              "ToolTip": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking.Tests\\UnitTests\\DataServiceTests.cs",
+              "RelativeToolTip": "Lab3DbNetMocking.Tests\\UnitTests\\DataServiceTests.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:28:54.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileLoggerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking.Tests\\UnitTests\\FileLoggerTests.cs",
+              "RelativeDocumentMoniker": "Lab3DbNetMocking.Tests\\UnitTests\\FileLoggerTests.cs",
+              "ToolTip": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking.Tests\\UnitTests\\FileLoggerTests.cs",
+              "RelativeToolTip": "Lab3DbNetMocking.Tests\\UnitTests\\FileLoggerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:29:17.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking\\Interfaces\\IAppSettings.cs",
+              "RelativeDocumentMoniker": "Lab3DbNetMocking\\Interfaces\\IAppSettings.cs",
+              "ToolTip": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking\\Interfaces\\IAppSettings.cs",
+              "RelativeToolTip": "Lab3DbNetMocking\\Interfaces\\IAppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:17:42.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "INetworkClient.cs",
+              "DocumentMoniker": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking\\Interfaces\\INetworkClient.cs",
+              "RelativeDocumentMoniker": "Lab3DbNetMocking\\Interfaces\\INetworkClient.cs",
+              "ToolTip": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking\\Interfaces\\INetworkClient.cs",
+              "RelativeToolTip": "Lab3DbNetMocking\\Interfaces\\INetworkClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:03:57.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking\\Services\\FileLogger.cs",
+              "RelativeDocumentMoniker": "Lab3DbNetMocking\\Services\\FileLogger.cs",
+              "ToolTip": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking\\Services\\FileLogger.cs",
+              "RelativeToolTip": "Lab3DbNetMocking\\Services\\FileLogger.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:53:13.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MockDataService.cs",
+              "DocumentMoniker": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking\\Services\\MockDataService.cs",
+              "RelativeDocumentMoniker": "Lab3DbNetMocking\\Services\\MockDataService.cs",
+              "ToolTip": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking\\Services\\MockDataService.cs",
+              "RelativeToolTip": "Lab3DbNetMocking\\Services\\MockDataService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:17:55.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MockNetworkClient.cs",
+              "DocumentMoniker": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking\\Services\\MockNetworkClient.cs",
+              "RelativeDocumentMoniker": "Lab3DbNetMocking\\Services\\MockNetworkClient.cs",
+              "ToolTip": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking\\Services\\MockNetworkClient.cs",
+              "RelativeToolTip": "Lab3DbNetMocking\\Services\\MockNetworkClient.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:18:36.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3DbNetMocking\\Program.cs",
+              "ToolTip": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking\\Program.cs",
+              "RelativeToolTip": "Lab3DbNetMocking\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wB4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T08:52:21.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NetworkClientTests.cs",
+              "DocumentMoniker": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking.Tests\\UnitTests\\NetworkClientTests.cs",
+              "RelativeDocumentMoniker": "Lab3DbNetMocking.Tests\\UnitTests\\NetworkClientTests.cs",
+              "ToolTip": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking.Tests\\UnitTests\\NetworkClientTests.cs",
+              "RelativeToolTip": "Lab3DbNetMocking.Tests\\UnitTests\\NetworkClientTests.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:29:07.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lab3DbNetMocking.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking.Tests\\Lab3DbNetMocking.Tests.csproj",
+              "RelativeDocumentMoniker": "Lab3DbNetMocking.Tests\\Lab3DbNetMocking.Tests.csproj",
+              "ToolTip": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking.Tests\\Lab3DbNetMocking.Tests.csproj",
+              "RelativeToolTip": "Lab3DbNetMocking.Tests\\Lab3DbNetMocking.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T09:14:57.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking\\DependencyInjection\\ServiceConfiguration.cs",
+              "RelativeDocumentMoniker": "Lab3DbNetMocking\\DependencyInjection\\ServiceConfiguration.cs",
+              "ToolTip": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking\\DependencyInjection\\ServiceConfiguration.cs",
+              "RelativeToolTip": "Lab3DbNetMocking\\DependencyInjection\\ServiceConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:23:18.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking\\Configuration\\AppSettings.cs",
+              "RelativeDocumentMoniker": "Lab3DbNetMocking\\Configuration\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking\\Configuration\\AppSettings.cs",
+              "RelativeToolTip": "Lab3DbNetMocking\\Configuration\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:24:34.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-05T09:51:28.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Lab3DbNet.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking\\Lab3DbNet.Core.csproj",
+              "RelativeDocumentMoniker": "Lab3DbNetMocking\\Lab3DbNet.Core.csproj",
+              "ToolTip": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking\\Lab3DbNet.Core.csproj",
+              "RelativeToolTip": "Lab3DbNetMocking\\Lab3DbNet.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T08:52:39.046Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 666,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

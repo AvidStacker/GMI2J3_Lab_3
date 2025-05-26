@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AW6oyjWS3SE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\CodeMetricsAnalyzer\\CodeMetricsAnalyzer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilage\\.nuget\\packages\\microsoft.build.locator\\1.9.1\\microsoft.build.locator.1.9.1.nupkg.sha512",
+    "C:\\Users\\ilage\\.nuget\\packages\\microsoft.codeanalysis.metrics\\3.3.4\\microsoft.codeanalysis.metrics.3.3.4.nupkg.sha512"
+  ],
+  "logs": []
+}

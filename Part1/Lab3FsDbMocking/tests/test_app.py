@@ -16,4 +16,4 @@ class TestApp(unittest.TestCase):
         self.assertEqual(result, "Hello from file | Weather: 22°C")
 
 if __name__ == '__main__':
-    unittest.main()v
+    unittest.main()

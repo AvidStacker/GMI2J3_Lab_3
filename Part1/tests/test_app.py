@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import MagicMock
-from app import App
+from Lab3FsDbMocking.app import App
 
 class TestApp(unittest.TestCase):
     def test_run_with_mocks(self):
@@ -16,4 +16,4 @@ class TestApp(unittest.TestCase):
         self.assertEqual(result, "Hello from file | Weather: 22°C")
 
 if __name__ == '__main__':
-    unittest.main()v
+    unittest.main()

@@ -75,8 +75,8 @@ Automatiserat GUI-test av HTML-sidan `prime-assert1.html`, som avgör om ett tal
 
 -  Alla delar följer **SOLID-principerna**
 -  **Dependency Injection** används konsekvent
--  **Cyclomatic Complexity** hålls låg (CCN < 10)
--  **100% kodtäckning** i kärnfunktionalitet
+-  **Cyclomatic Complexity** hålls låg (CCN < 15)
+-  **God kodtäckning** i kärnfunktionalitet
 
 ---
 

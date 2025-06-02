@@ -1371,11 +1371,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking.Tests\\Lab3DbNetMocking.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\ilage\\Documents\\GitHub\\GMI2J3_Lab_3\\Part2\\Lab3DbNetMocking\\Lab3DbNetMocking.Tests\\Lab3DbNetMocking.Tests.csproj",
       "projectName": "Lab3DbNetMocking.Tests",
-      "projectPath": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking.Tests\\Lab3DbNetMocking.Tests.csproj",
+      "projectPath": "C:\\Users\\ilage\\Documents\\GitHub\\GMI2J3_Lab_3\\Part2\\Lab3DbNetMocking\\Lab3DbNetMocking.Tests\\Lab3DbNetMocking.Tests.csproj",
       "packagesPath": "C:\\Users\\ilage\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking.Tests\\obj\\",
+      "outputPath": "C:\\Users\\ilage\\Documents\\GitHub\\GMI2J3_Lab_3\\Part2\\Lab3DbNetMocking\\Lab3DbNetMocking.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1396,8 +1396,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking\\Lab3DbNet.Core.csproj": {
-              "projectPath": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking\\Lab3DbNet.Core.csproj"
+            "C:\\Users\\ilage\\Documents\\GitHub\\GMI2J3_Lab_3\\Part2\\Lab3DbNetMocking\\Lab3DbNetMocking\\Lab3DbNet.Core.csproj": {
+              "projectPath": "C:\\Users\\ilage\\Documents\\GitHub\\GMI2J3_Lab_3\\Part2\\Lab3DbNetMocking\\Lab3DbNetMocking\\Lab3DbNet.Core.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JWAUH1Y9yKI=",
+  "dgSpecHash": "gexsv9JXmzM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking\\Lab3DbNet.Core.csproj",
+  "projectFilePath": "C:\\Users\\ilage\\Documents\\GitHub\\GMI2J3_Lab_3\\Part2\\Lab3DbNetMocking\\Lab3DbNetMocking\\Lab3DbNet.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ilage\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\ilage\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.4\\microsoft.extensions.dependencyinjection.9.0.4.nupkg.sha512",

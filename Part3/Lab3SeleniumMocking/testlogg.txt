@@ -1,0 +1,12 @@
+Testkörning: 2025-05-26 11:52:25.643777
+Nummer	Alerttext	Status
+10	Is number 10 a prime? false	PASS
+11	Is number 11 a prime? true	PASS
+12	Is number 12 a prime? false	PASS
+13	Is number 13 a prime? true	PASS
+14	Is number 14 a prime? false	PASS
+15	Is number 15 a prime? false	PASS
+16	Is number 16 a prime? false	PASS
+17	Is number 17 a prime? true	PASS
+18	Is number 18 a prime? false	PASS
+19	Is number 19 a prime? true	PASS

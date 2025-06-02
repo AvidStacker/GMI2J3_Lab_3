@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab3DbNet.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3c6df860921ff29efa5fdfca5bc0e1cd46481db")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab3DbNet.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab3DbNet.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

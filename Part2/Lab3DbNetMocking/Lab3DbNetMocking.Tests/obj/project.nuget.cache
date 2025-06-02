@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T1w/1RL2x70=",
+  "dgSpecHash": "M7stXAIA7SU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ilage\\source\\repos\\Lab3DbNetMocking\\Lab3DbNetMocking.Tests\\Lab3DbNetMocking.Tests.csproj",
+  "projectFilePath": "C:\\Users\\ilage\\Documents\\GitHub\\GMI2J3_Lab_3\\Part2\\Lab3DbNetMocking\\Lab3DbNetMocking.Tests\\Lab3DbNetMocking.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ilage\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\ilage\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",

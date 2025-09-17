@@ -1,89 +1,79 @@
 # Lab 3 - Software Testing 1
 
-Detta projekt är en lösning på Lab 3 i kursen **GMI2J3 - Software Testing 1**. Fokus ligger på att implementera **mocking**, analysera **code coverage** och **cyclomatic complexity**, samt genomföra **automatiserad GUI-testning** med **Selenium**.
+This project is a solution for Lab 3 in the course **GMI2J3 - Software Testing 1**. The focus is on implementing **mocking**, analyzing **code coverage** and **cyclomatic complexity**, as well as performing **automated GUI testing** with **Selenium**.
 
 ---
 
-## Innehåll
+## Contents
 
-### Del 3.1 – Mocking i Python
+### Part 3.1 – Mocking in Python
 
-En Python-applikation skapades där följande komponenter ingår:
+A Python application was created including the following components:
 
-- `FileService`: Läser in data från fil.
-- `WeatherService`: Hämtar väderdata från en (mockad) extern API.
-- `App`: Använder ovanstående tjänster genom **dependency injection**.
+- `FileService`: Reads data from a file.  
+- `WeatherService`: Retrieves weather data from a (mocked) external API.  
+- `App`: Uses the above services through **dependency injection**.  
 
-#### Tester
+#### Tests
 
-- Enhetstester skapade med `unittest` och `unittest.mock.MagicMock`
-- Kodtäckning uppmätt med `coverage`: **96%**
-- **Cyclomatic Complexity** analyserades med `lizard`, alla metoder hade **CCN < 15**
-
----
-
-### Del 3.2 – Mocking i C# (.NET)
-
-C#-applikation med stöd för mockning av filsystem, nätverk och loggning via gränssnitt.
-
-#### Komponenter
-
-- **Interfaces**: `IDataService`, `INetworkClient`, `ILogger`, `IAppSettings`
-- **Mock-implementeringar**: `MockDataService`, `MockNetworkClient`, `FileLogger`
-- **Dependency Injection** konfigurerad med `Microsoft.Extensions.DependencyInjection`
-
-#### Tester
-
-- Tester skapade med **xUnit** och **Moq**
-- Testade beteenden:
-  - `GetDataAsync`, `SaveDataAsync`, `DeleteDataAsync`
-  - Nätverksanrop (`GetAsync`, `PostAsync`)
-  - Felhantering och loggning
-- Kodtäckning analyserad i **Visual Studio Enterprise**
-- **Cyclomatic Complexity** låg i alla metoder (CCN < 10)
+- Unit tests created with `unittest` and `unittest.mock.MagicMock`  
+- Code coverage measured with `coverage`: **96%**  
+- **Cyclomatic Complexity** analyzed with `lizard`, all methods had **CCN < 15**
 
 ---
 
-### Del 3.3 – GUI-Testning med Selenium (Python)
+### Part 3.2 – Mocking in C# (.NET)
 
-Automatiserat GUI-test av HTML-sidan `prime-assert1.html`, som avgör om ett tal är ett primtal.
+C# application with support for mocking the file system, network, and logging via interfaces.
 
-#### Funktioner
+#### Components
 
-- `unittest` + `selenium` + `webdriver-manager`
-- Talen 10–19 matas in och alert-rutor kontrolleras
-- Resultaten valideras mot förväntade värden
-- Alla tester passerade utan fel
+- **Interfaces**: `IDataService`, `INetworkClient`, `ILogger`, `IAppSettings`  
+- **Mock implementations**: `MockDataService`, `MockNetworkClient`, `FileLogger`  
+- **Dependency Injection** configured with `Microsoft.Extensions.DependencyInjection`  
+
+#### Tests
+
+- Tests written with **xUnit** and **Moq**  
+- Tested behaviors:  
+  - `GetDataAsync`, `SaveDataAsync`, `DeleteDataAsync`  
+  - Network requests (`GetAsync`, `PostAsync`)  
+  - Error handling and logging  
+- Code coverage analyzed in **Visual Studio Enterprise**  
+- **Cyclomatic Complexity** was low in all methods (CCN < 10)
 
 ---
 
-## Verktyg och Teknik
+### Part 3.3 – GUI Testing with Selenium (Python)
 
-| Verktyg        | Användning                       |
+Automated GUI testing of the HTML page `prime-assert1.html`, which determines if a number is prime.
+
+#### Features
+
+- `unittest` + `selenium` + `webdriver-manager`  
+- Numbers 10–19 are entered and alert popups are checked  
+- Results are validated against expected values  
+- All tests passed without errors  
+
+---
+
+## Tools and Technologies
+
+| Tool           | Usage                            |
 |----------------|----------------------------------|
-| Python 3.12    | Backend + Tester + GUI-test      |
-| coverage       | Kodtäckningsrapport i HTML       |
-| lizard         | Cyclomatic Complexity-analyser   |
-| selenium       | GUI-testning                     |
-| C# .NET 9      | Backend + Mocking med Moq        |
-| xUnit + Moq    | Enhetstester för .NET            |
-| Visual Studio  | Metrics + testkörning            |
+| Python 3.12    | Backend + Tests + GUI testing    |
+| coverage       | Code coverage report in HTML     |
+| lizard         | Cyclomatic Complexity analysis   |
+| selenium       | GUI testing                      |
+| C# .NET 9      | Backend + Mocking with Moq       |
+| xUnit + Moq    | Unit tests for .NET              |
+| Visual Studio  | Metrics + test execution         |
 
 ---
 
-##  Kodkvalitet
+## Code Quality
 
--  Alla delar följer **SOLID-principerna**
--  **Dependency Injection** används konsekvent
--  **Cyclomatic Complexity** hålls låg (CCN < 15)
--  **God kodtäckning** i kärnfunktionalitet
-
----
-
-## Lab Feedback
-
-**a) Var labben relevant och lämplig?**  
-> Ja, mycket relevant och realistisk. Täckte praktiska delar inom testning: mocking, kodtäckning, komplexitet och GUI-testning.
-
-**b) Förbättringsförslag:**  
-> - Gör det tydligare att **alla tre delar** ska genomföras.  
+- All parts follow the **SOLID principles**  
+- **Dependency Injection** is used consistently  
+- **Cyclomatic Complexity** kept low (CCN < 15)  
+- **High code coverage** in core functionality  
